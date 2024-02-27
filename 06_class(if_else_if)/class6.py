@@ -1,7 +1,7 @@
 # union type (assign multiple types)
 from typing import Union
 
-percentage : Union[int,float] = 88
+percentage : Union[int,float] = 48
 grade : Union[str,None] = 7 
 
 if percentage >= 80:
